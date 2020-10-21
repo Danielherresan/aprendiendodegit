@@ -18,7 +18,7 @@ print (mensajeOperacion.format('multiplicando'))
 opm.calculadora(opm.multiplicar, valor1, valor2)
 ops.lineDesignC(12)
 ops.lineDesignC(12)
-print (mensajeOperacion.format('dividiendo'))
+print (mensajeOperacion.format('dividiendoz'))
 opm.calculadora(opm.dividir, valor1, valor2)
 ops.lineDesignC(12)
 
